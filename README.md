@@ -1,8 +1,20 @@
-# React + Vite
+Name : Anuj Kumar Singh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Email : anujkumarsingh6544@gmail.com
 
-Currently, two official plugins are available:
+Portfolio : https://anujksingh.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Contact : 9140971612
+
+# Project Snapshots
+<img width="960" alt="image" src="https://github.com/anujsingh4545/Aspire_it-Work/assets/76861751/b09bb1c3-b1a6-462a-89e6-ceeb11605280">
+
+<img width="960" alt="image" src="https://github.com/anujsingh4545/Aspire_it-Work/assets/76861751/7dad6551-6840-4444-bc5f-a95f6273c499">
+
+<img width="960" alt="image" src="https://github.com/anujsingh4545/Aspire_it-Work/assets/76861751/70a2466c-af4c-4702-8b6d-cb0c25da3167">
+
+<img width="960" alt="image" src="https://github.com/anujsingh4545/Aspire_it-Work/assets/76861751/beec210b-2825-4d8a-a804-a5fc851e2035">
+
+<img width="960" alt="image" src="https://github.com/anujsingh4545/Aspire_it-Work/assets/76861751/d43e0cf3-8289-4f66-8792-ea81955808a5">
+
+<img width="960" alt="image" src="https://github.com/anujsingh4545/Aspire_it-Work/assets/76861751/3340a8d0-2142-401d-9e58-b21f757a4544">
